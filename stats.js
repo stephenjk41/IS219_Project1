@@ -1,4 +1,4 @@
-const Calculator = require('./Calculator');
+const Calculator = require('./calc');
 class stats extends Calculator {
 
     Variance(a,b) {
