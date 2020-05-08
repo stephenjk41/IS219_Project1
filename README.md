@@ -1,5 +1,5 @@
 # IS219_Project1
 Project1
 
-[![Coverage Status](https://coveralls.io/repos/github/kaw393939/is219hello/badge.svg?branch=master)](https://coveralls.io/github/kaw393939/is219hello?branch=master)
-[![Build Status](https://travis-ci.org/kaw393939/is219hello.svg?branch=master)](https://travis-ci.org/kaw393939/is219hello)
+[![Coverage Status](https://coveralls.io/repos/github/stephenjk41/IS219_Project1/badge.svg?branch=master)](https://coveralls.io/github/stephenjk41/IS219_Project1?branch=master)
+[![Build Status](https://travis-ci.org/stephenjk41/IS219_Project1.svg?branch=master)](https://travis-ci.org/stephenjk41/IS219_Project1)
