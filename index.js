@@ -1,6 +1,6 @@
 const parse = require('csv-parse')
 const fs = require('fs');
-const City = require('./models/city')
+const City = require('./models/City')
 const output = []
 let csvFile = 'data/data.csv';
 

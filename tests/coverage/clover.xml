@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1588905092439" clover="3.2.0">
-  <project timestamp="1588905092440" name="All files">
-    <metrics statements="64" coveredstatements="56" conditionals="16" coveredconditionals="11" methods="20" coveredmethods="18" elements="100" coveredelements="85" complexity="0" loc="64" ncloc="64" packages="4" files="11" classes="11"/>
+<coverage generated="1588906232411" clover="3.2.0">
+  <project timestamp="1588906232411" name="All files">
+    <metrics statements="72" coveredstatements="72" conditionals="19" coveredconditionals="16" methods="21" coveredmethods="21" elements="112" coveredelements="109" complexity="0" loc="72" ncloc="72" packages="4" files="11" classes="11"/>
     <package name="IS219_Project1">
-      <metrics statements="44" coveredstatements="40" conditionals="16" coveredconditionals="11" methods="16" coveredmethods="15"/>
-      <file name="add.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\add.js">
-        <metrics statements="7" coveredstatements="5" conditionals="4" coveredconditionals="1" methods="2" coveredmethods="1"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="4" count="1" type="cond" truecount="1" falsecount="1"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="6" count="0" type="stmt"/>
-        <line num="10" count="1" type="stmt"/>
-        <line num="12" count="1" type="stmt"/>
+      <metrics statements="44" coveredstatements="44" conditionals="16" coveredconditionals="13" methods="16" coveredmethods="16"/>
+      <file name="addition.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\addition.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="3" count="10" type="stmt"/>
+        <line num="4" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
         <line num="15" count="3" type="stmt"/>
       </file>
       <file name="calc.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\calc.js">
@@ -20,14 +20,14 @@
         <line num="5" count="3" type="cond" truecount="2" falsecount="0"/>
         <line num="6" count="2" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
-        <line num="13" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
         <line num="16" count="1" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
         <line num="22" count="2" type="stmt"/>
       </file>
       <file name="divide.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\divide.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="2" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
         <line num="4" count="3" type="stmt"/>
       </file>
       <file name="mathOps.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\mathOps.js">
@@ -40,13 +40,13 @@
         <line num="9" count="2" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
-        <line num="18" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
         <line num="25" count="2" type="stmt"/>
       </file>
       <file name="mult.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\mult.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="2" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
         <line num="4" count="3" type="stmt"/>
       </file>
       <file name="sanitization.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\sanitization.js">
@@ -59,24 +59,24 @@
         <line num="13" count="1" type="stmt"/>
       </file>
       <file name="stats.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\stats.js">
-        <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
-        <line num="9" count="0" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
       </file>
-      <file name="sub.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\sub.js">
+      <file name="subtraction.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\subtraction.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="3" count="1" type="stmt"/>
         <line num="6" count="2" type="stmt"/>
       </file>
     </package>
     <package name="IS219_Project1.csv">
-      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
-      <file name="read.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\csv\read.js">
-        <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Read.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\csv\Read.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
@@ -87,13 +87,13 @@
         <line num="14" count="1" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
         <line num="16" count="1" type="stmt"/>
-        <line num="17" count="1" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
       </file>
     </package>
     <package name="IS219_Project1.fileOps">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="file.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\fileOps\file.js">
+      <file name="File.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\fileOps\File.js">
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
@@ -102,13 +102,21 @@
       </file>
     </package>
     <package name="IS219_Project1.models">
-      <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <file name="city.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\models\city.js">
-        <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="City.js" path="C:\Users\steph\OneDrive\Desktop\IS219_Project1\models\City.js">
+        <metrics statements="12" coveredstatements="12" conditionals="3" coveredconditionals="3" methods="2" coveredmethods="2"/>
         <line num="1" count="2" type="stmt"/>
-        <line num="4" count="0" type="stmt"/>
-        <line num="5" count="0" type="stmt"/>
-        <line num="6" count="0" type="stmt"/>
+        <line num="3" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
       </file>
     </package>
   </project>

@@ -1,4 +1,4 @@
-const file = require('../fileOps/file');
+const file = require('../fileOps/File');
 
 test('Can find absolute filepath', () => {
     const fs = require('fs')

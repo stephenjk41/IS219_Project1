@@ -1,6 +1,6 @@
-class sub {
+class Subtraction {
     static difference(a, b) {
         return a - b;
     }
 }
-module.exports = sub;
+module.exports = Subtraction;

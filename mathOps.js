@@ -1,7 +1,7 @@
-const add = require('./add');
-const mult = require('./mult');
+const addition = require('./addition');
+const multiply = require('./mult');
 const divide = require('./divide');
-const difference = require('./sub');
+const difference = require('./subtraction');
 
 class MathOperations {
     static sum(a = null, b = null) {

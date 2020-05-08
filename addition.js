@@ -1,9 +1,9 @@
-class add {
+class addition {
     static sum(a = null, b = null) {
         let result = 0;
         if(Array.isArray(a)) {
             a.forEach(function (item) {
-                result = add.sum(result, item);
+                result = addition.sum(result, item);
             });
         }
         else {
@@ -12,4 +12,4 @@ class add {
         return result;
     }
 }
-module.exports = add;
+module.exports = addition;
