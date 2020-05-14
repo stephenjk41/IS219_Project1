@@ -1,9 +1,9 @@
-const file = require('../fileOps/File');
+const File = require('../fileOps/File');
 
 test('Can find absolute filepath', () => {
     const fs = require('fs')
     let filename  = 'data/data.csv';
-    let absolutePath = file.getAbsolutePath(filename);
+    let absolutePath = File.getAbsolutePath(filename);
 
     //finding out if the file exists and then passing the test.
    fs.access(absolutePath, fs.F_OK, (err) => {
