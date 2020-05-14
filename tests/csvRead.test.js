@@ -1,5 +1,5 @@
-const CSVRead = require('../csv/Read.js');
-const City = require('../models/City.js')
+const CSVRead = require('../csv/Read');
+const City = require('../models/City')
 const expect = require('expect');
 test('Can Read CSV File', () => {
     let filename  = 'data/data.csv';
